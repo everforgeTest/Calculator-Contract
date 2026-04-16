@@ -5,7 +5,7 @@ const bson = require('bson');
 
 const calculatorContract = async (ctx) => {
   console.log('Calculator contract is running.');
-
+//fdgdfgfh
   const isReadOnly = ctx.readonly;
 
   try {
