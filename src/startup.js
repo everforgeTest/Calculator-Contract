@@ -7,7 +7,7 @@ const calculatorContract = async (ctx) => {
   console.log('Calculator contract is running.');
 //fdgdfgfh
   const isReadOnly = ctx.readonly;
-
+//fhghgh
   try {
     await DBInitializer.init();
   } catch (e) {
